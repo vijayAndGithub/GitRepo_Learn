@@ -1,0 +1,3 @@
+apoaaappappa changed content , when in staging area
+aaa
+after staging, current working directory

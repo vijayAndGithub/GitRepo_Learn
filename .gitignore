@@ -1,0 +1,5 @@
+*.log
+# /delete/
+delete/
+static/insideStatic
+dbIgnore.accd
